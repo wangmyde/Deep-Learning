@@ -1,5 +1,5 @@
 # Deep-Learning
 This is about Deep Learning.
 ## Contents
-### Neural Netwaork
-### Converlutional Neural Network
+### 1 Neural Netwaork
+### 2 Converlutional Neural Network
